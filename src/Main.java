@@ -3,14 +3,14 @@ public class Main {
         SolarSystem s=new SolarSystem();
         s.color="red";
 
-<<<<<<< HEAD
+
         Light light=new Light();
         light.color="red";
 
-=======
+
         Sun sun=new Sun();
         sun.color="red";
         
->>>>>>> sun
+
     }
 }
